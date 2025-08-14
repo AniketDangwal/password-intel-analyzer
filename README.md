@@ -22,11 +22,10 @@ Integration support for APIs like HaveIBeenPwned to check if a password has appe
 
 ⚙️ Tech Stack
 
-Language: Python / JavaScript / [your language here]
+Language: Python 
 
 Libraries: zxcvbn, re, math, requests, etc.
 
-Optional UI: HTML/CSS/JS or CLI-based interface
 
 🎯 Use Cases
 
